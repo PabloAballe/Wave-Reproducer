@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349403600403",
+    "project_id": "music-wave-app",
+    "storage_bucket": "music-wave-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349403600403:android:88fadb4e8747a4783551e6",
+        "android_client_info": {
+          "package_name": "com.wave.musicwaveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349403600403-95rcdemb7r6m3e3lcr0qg6b5mjp3tnlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtf4B09rlMh0nKH1IPSiwjFxLJWXPNiKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349403600403-95rcdemb7r6m3e3lcr0qg6b5mjp3tnlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
